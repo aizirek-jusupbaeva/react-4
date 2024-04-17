@@ -1,11 +1,12 @@
 import './App.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import React from 'react'
-import Header from './components/Header';
-import Mans from './components/Mans';
-import About from './components/About';
-import Womans from './components/Womans';
-import Home from './components/Home';
+import Header from './components/Header/Header';
+import Mans from './components/Mans/Mans';
+import About from './components/About/About';
+import Womans from './components/Womans/Womans';
+import Home from './components/Home/Home';
+
 
 function App() {
   return (
