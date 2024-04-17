@@ -7,7 +7,6 @@ import About from './components/About/About';
 import Womans from './components/Womans/Womans';
 import Home from './components/Home/Home';
 
-
 function App() {
   return (
     <BrowserRouter>
