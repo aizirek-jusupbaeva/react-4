@@ -1,0 +1,24 @@
+.home{
+    background-image: url(https://www.designscene.net/wp-content/uploads/2019/08/ZARA-TRF-FW19-Matteo-Montanari-00.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.flex-forum{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.forum{
+    width: 250px;
+    border-radius: 5px;
+}
+.btn{
+    width: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.btn:hover{
+    background-color: gray;
+}
