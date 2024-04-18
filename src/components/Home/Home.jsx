@@ -17,7 +17,7 @@ const Home = () => {
                     <div className="flex-forum">
                         <input className='forum' type="email" name="" id="" />
                         <input className='forum' type="password" name="" id="" />
-                        <button className='btn'>Sign in</button>
+                        <button className='btn-sign'>Sign in</button>
                     </div>
                     <br />
                     <br />

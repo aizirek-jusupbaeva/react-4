@@ -1,0 +1,16 @@
+.about{
+    background-image: url(https://static.zara.net/assets/public/cc8b/ad13/fc1d42c6abbd/3a414e63320e/image-landscape-fill-058f1463-37c0-4b29-b421-519407ae02b1-default_0.jpg?ts=1713364707723&w=1910);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.text{
+    color: beige;
+    border: 1px solid black;
+}
+h1{
+    color: aliceblue;
+}
+h2{
+    color: aliceblue;
+}
