@@ -6,7 +6,13 @@ const Home = () => {
 		<div className='home'>
 			<div className="container">
                 <div className="home-flex">
-                    <h1 className='regestration'>Sign In Now!</h1>
+                    <div className="flex-h1">
+                        <h1 className='regestration'>Sign In Now!</h1>
+                        <div>
+                        <h3 className='search-text'>Search</h3>
+                        <input className='search' type="search" name="" id="" />
+                        </div>
+                    </div>
                     <h2> To order, please sign in</h2>
                     <div className="flex-forum">
                         <input className='forum' type="email" name="" id="" />
